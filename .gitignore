@@ -1,4 +1,5 @@
 _Store
 *.pyc
 __pycache__
+.idea
 
